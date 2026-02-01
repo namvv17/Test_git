@@ -8,3 +8,6 @@
 
 ## Author
 Nam Vo
+
+## Git Practice
+I'm practicing git add, commit, and push.
