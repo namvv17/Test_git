@@ -1,1 +1,3 @@
 Today I learned Git basic commands.
+
+Git pull helps sync code.
