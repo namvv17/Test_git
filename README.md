@@ -1,2 +1,10 @@
 # Learn GitHub
-This repository is used to learn Git and GitHub basics.
+ Hi, I'm learning GitHub.
+
+## What I will learn
+- Git basic commands
+- How to push code
+- How to manage projects
+
+## Author
+Nam Vo
