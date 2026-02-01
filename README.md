@@ -12,3 +12,6 @@ Nam Vo
 ## Git Practice
 I'm practicing git add, commit, and push.
 Hello 
+
+## Update from GitHub
+This line was edited directly on GitHub.
